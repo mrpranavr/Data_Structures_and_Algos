@@ -1,3 +1,5 @@
+package Mathematics;
+
 import java.util.*;
 class SieveEratos {
     public static void main(String[] args) {

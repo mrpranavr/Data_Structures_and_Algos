@@ -1,3 +1,5 @@
+package Mathematics;
+
 import java.util.*;
 
 class Modulo {
